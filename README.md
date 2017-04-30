@@ -6,6 +6,6 @@ Based entirely on Siraj Raval's project.
 To run, 
 1) Download the project
 2) Install the requirements</br></t>pip install -r requirements.txt
-2) run,</br></t>python main.py <keyword> <yes/no (if you want to filter the repeated useless words)>
+2) run,</br></t>python main.py &lt;keyword&gt; &lt;yes/no (if you want to filter the repeated useless words)&gt;
 
 Prelude to the projects yet to come. \./
